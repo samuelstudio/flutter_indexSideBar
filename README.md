@@ -2,9 +2,9 @@
 
 A new Flutter application.
 
-## preview
+## Preview
 
-<div align="center">
+<div>
 <img src="https://github.com/samuelstudio/flutter_indexSideBar/blob/master/preview.gif"/ width="200">
 </div>
 
