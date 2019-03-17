@@ -4,7 +4,7 @@ A new Flutter application.
 
 ## preview
 
-![screen](./preview.gif)
+![screen](./preview.gif =200px)
 
 ## Getting Started
 
