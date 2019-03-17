@@ -4,7 +4,9 @@ A new Flutter application.
 
 ## preview
 
-![screen](./preview.gif =200px)
+<div align="center">
+<img src="https://github.com/samuelstudio/flutter_indexSideBar/blob/master/preview.gif"/ width="200">
+</div>
 
 ## Getting Started
 
